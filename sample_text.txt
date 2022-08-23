@@ -1,0 +1,4 @@
+Hi there!
+Welcome to datagy!
+Today we’re learning how to read text files.
+See you later!

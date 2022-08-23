@@ -1,0 +1,5 @@
+Lumber, 4
+Screws, 16
+Nails, 12
+Paint, 1
+Hammer, 1
